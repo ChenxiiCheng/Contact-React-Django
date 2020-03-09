@@ -1,3 +1,3 @@
-Contact React Django Project
+## Contact React Django Project
 
 React + Redux + Django Rest Framework
